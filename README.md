@@ -20,8 +20,8 @@ It is essential that we focus on the farmers, which are the ones who will be usi
 # Demo Link
 [Intended app behaviour (Youtube)](https://www.youtube.com/watch?v=cKN6QTTM4XQ)
 
-# Detailled screens
-[]()
+# Detailed project screens
+[Open it at figma online ](Https://www.figma.com/community/file/1424843421858850351/nasagrowth)
 
 # WHY? 
 Farmers need support against these issues of climate change, by means of improved weather data and predictions (more precise, timely, adapted to their specific crops / livestock) 
