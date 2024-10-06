@@ -1,12 +1,16 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/c7e9c377-f6a0-40a8-9245-4bb9de7de607)
 
-<!--
 
-**Here are some ideas to get you started:**
+NASA AGRO GROWTH was a team involved at [NASA Space Apps Challenge 2024 Barcelona local event](https://www.spaceappschallenge.org/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+
++ [Ariana :Matematician](https://www.linkedin.com/in/ariana-cr/)
++ [Joan :Economist]()
++ [Raul :Telecomunications](https://www.linkedin.com/in/raulmor/)
++ [Santi :Management](https://www.linkedin.com/in/santiagosantander)
++ [Luis :Computers Science](https://www.linkedin.com/in/luismiguelcasadodiaz/)
+
+  
+  We submitted for judging a 48-hour project. [Check it.](https://github.com/NasaGrowth/.github)
