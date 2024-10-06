@@ -14,3 +14,6 @@ NASA AGRO GROWTH was a team involved at [NASA Space Apps Challenge 2024 Barcelon
 
   
   We submitted for judging a 48-hour project. [Check it.](https://github.com/NasaGrowth/.github)
+
+
+  ![image](https://github.com/NasaGrowth/Docs_and_refs/blob/main/NasAgroWth_team.jpeg)
