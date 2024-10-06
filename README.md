@@ -66,17 +66,20 @@ The app provides the farmer with: 
 + A Season-to-day rainfall of current year in perspective of previous full seasons 
 + A quadrant will express the current season compared with historical data. 
 + A k-means clustering off previous years and current year. 
-+ A forecast of yield (Only if Farmer introduces in the app, yields obtained in previous years) 
-+ A Season-to-day rainfall of current year compared with previous ones 
++ A forecast of yield (Only if Farmer introduces in the app, yields obtained in previous years)
 
+  
+### A Season-to-day rainfall of current year compared with previous ones 
+![image](https://github.com/NasaGrowth/Docs_and_refs/blob/main/Season-to-day.png)
 
  In areas with scare bandwidth, a table with colors will be enough to hint farmer about current year’s rainfall rank 
 
-A Season-to-day rainfall of current year in perspective of previous full seasons 
+### A Season-to-day rainfall of current year in perspective of previous full seasons 
+![image](https://github.com/NasaGrowth/Docs_and_refs/blob/main/Full%20season%20rainfall.png)
 
 
-A quadrant will express current season compared with historical data  
-
+### A quadrant will express current season compared with historical data  
+![image](https://github.com/NasaGrowth/Docs_and_refs/blob/main/Quadrant.png)
 
 This quadrant will support water management decisions: 
  
