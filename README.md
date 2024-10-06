@@ -117,3 +117,14 @@ As far as new current rainfall and moisture data is available, that app will dow
 
 # MONETIZATION
 Free for farmers monitoring less than 10 hectares. 3rd sector entities pushing FAO programs would deliver app to farmers in developing countries.
+
+
+# APP
+
+Preview the mobile application design created using Figma. Check it out on our [public file](https://www.figma.com/community/file/1424843421858850351/nasagrowth)
+
+<img width="739" alt="Captura de Pantalla 2024-10-06 a las 22 14 15" src="https://github.com/user-attachments/assets/22842754-001f-463f-8128-8c91baff4706">
+
+<img width="739" alt="Captura de Pantalla 2024-10-06 a las 22 14 39" src="https://github.com/user-attachments/assets/92353564-07aa-41ec-a28e-c52302c52439">
+
+
